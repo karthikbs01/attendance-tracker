@@ -1,0 +1,11 @@
+{
+    "absent_records": [
+        {
+            "attendance_id": "7cb91326e8ce432187bd5a5552aa53d3",
+            "student_id": "29897fb8b9be480b831b51e1d7828213",
+            "date": "2026-01-04",
+            "reason": "gang fight",
+            "marked_at": "2026-01-04T18:11:16.844743"
+        }
+    ]
+}

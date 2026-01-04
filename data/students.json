@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "student_id": "4120290faf6b4ebdb3b0c05424cecc7f",
+            "usn": "25UGDS2007",
+            "student_name": "Karthik",
+            "password_hash": "42b3ecde265e0e01654513a33020eb20f8825aff5786d13513bebc30f07df68d",
+            "salt": "57fb356c66d57214f691209bdef4e73d",
+            "created_at": "2026-01-04T18:05:52.630211"
+        },
+        {
+            "student_id": "29897fb8b9be480b831b51e1d7828213",
+            "usn": "25UGDS2008",
+            "student_name": "Rehman Bhai",
+            "password_hash": "8035dddc2abca1e347fedc6ae243c74dbe9d7def2e0786368912b55b7bf2188f",
+            "salt": "2e44c11b090daf40cfe64fc94ea58734",
+            "created_at": "2026-01-04T18:10:39.895317"
+        }
+    ]
+}
